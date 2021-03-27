@@ -15,7 +15,7 @@
     </repository>
   </distributionManagement>
   <scm>
-  	<connection>scm:git:file://C:\Users\chris\git</connection>
+  	<connection>scm:git:file://C:\Users\chris\git\R14</connection>
     <tag>R14JavaLibrary-0.0.1</tag>
   </scm>
   <dependencies>
