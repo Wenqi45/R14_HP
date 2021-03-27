@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>R14JavaLibrary</groupId>
   <artifactId>R14JavaLibrary</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
   <distributionManagement>
   	<snapshotRepository>
   		<id>R14JavaLibrary-release</id>
@@ -15,7 +15,7 @@
     </repository>
   </distributionManagement>
   <scm>
-  	<connection>scm:git:file://C:\Users\chris\git</connection>
+  	<connection>scm:git:file://C:\Users\chris\git\R14</connection>
     <tag>R14JavaLibrary-0.0.1</tag>
   </scm>
   <dependencies>
