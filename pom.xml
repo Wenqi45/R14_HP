@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>R14JavaLibrary</groupId>
   <artifactId>R14JavaLibrary</artifactId>
-  <version>0.0.3-SNAPSHOT</version>
+  <version>0.0.3</version>
   <distributionManagement>
   	<snapshotRepository>
   		<id>R14JavaLibrary-release</id>
@@ -16,7 +16,7 @@
   </distributionManagement>
   <scm>
   	<connection>scm:git:https://github.com/Wenqi45/R14_HP.git</connection>
-    <tag>R14JavaLibrary-0.0.1</tag>
+    <tag>R14JavaLibrary-0.0.3</tag>
   </scm>
   <dependencies>
 	  <dependency>
